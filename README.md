@@ -53,10 +53,5 @@ This project analyzes **telecom customer churn** using Power BI, providing a **3
 2. Open the `.pbit` file in **Power BI Desktop**.
 3. Load the dataset and refresh visuals.
 
-## 📜 About
-
-This project was built to showcase **customer analytics & retention strategy insights** for recruiters and data-driven organizations.
-
 ---
 
-👉 Do you also want me to add a **"Live Dashboard link" (Power BI Service)** so recruiters can explore it interactively, or just keep it GitHub-only?
