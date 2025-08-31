@@ -1,9 +1,3 @@
-Got it 👍 Adding **links to your repo files & images** inside the README so recruiters can directly click & view/download.
-
-Here’s the improved version 👇
-
----
-
 # 📊 Customer 360° Churn Analysis Dashboard
 
 This project analyzes **telecom customer churn** using Power BI, providing a **360° view of customer behavior, retention risks, and business insights**.
