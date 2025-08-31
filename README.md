@@ -4,7 +4,8 @@
 This Power BI project provides a **360° view of customer churn** using the Telco dataset.  
 It identifies patterns, key risk factors, and offers insights for customer retention strategies.  
 The dashboard highlights how businesses can use **data-driven decisions** to reduce churn.
-
+## Dashboard View 
+-
 ---
 
 ## 📌 Key Insights
