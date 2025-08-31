@@ -1,23 +1,62 @@
-# 📊 Customer 360° Churn Analysis Dashboard (Power BI)
+Got it 👍 Adding **links to your repo files & images** inside the README so recruiters can directly click & view/download.
 
-## 🔍 Project Overview
-This Power BI project provides a **360° view of customer churn** using the Telco dataset.  
-It identifies patterns, key risk factors, and offers insights for customer retention strategies.  
-The dashboard highlights how businesses can use **data-driven decisions** to reduce churn.
-## Dashboard View 
--
----
-
-## 📌 Key Insights
-- **27% churn rate** identified  
-- Highest churn among **Month-to-Month contracts** & **Fiber Optic users**  
-- **Senior Citizens** & **Electronic Check payers** are most vulnerable  
-- Suggested strategies: **Promote long-term contracts & safer payment options**  
+Here’s the improved version 👇
 
 ---
 
-## ⚙️ Tech Stack
-- **Power BI** → Dashboard creation & data visualization  
-- **DAX** → Custom measures & KPIs  
-- **Data Modeling** → Star Schema (Fact & Dimension tables)  
-- **Dataset** → [
+# 📊 Customer 360° Churn Analysis Dashboard
+
+This project analyzes **telecom customer churn** using Power BI, providing a **360° view of customer behavior, retention risks, and business insights**.
+
+## 📂 Project Contents
+
+* [Customer 360° Churn Analysis Dashboard.pbit](./Customer%20360%C2%B0%20Churn%20Analysis%20Dashboard.pbit) → Power BI dashboard file.
+* [Customer 360° Churn Analysis Dataset.xlsx](./Customer%20360%C2%B0%20Churn%20Analysis%20Dataset.xlsx) → Dataset used for analysis.
+* Dashboard Images:
+
+  * [Dashboard Main View](./Dashboard%20Main%20View.png)
+  * [Dashboard-1](./Dashboard-1.png.png)
+  * [Dashboard](./Dashboard.png)
+
+## 🚀 Key Features
+
+✔️ **Churn Rate Tracking** – Overall churn % with clear KPIs
+✔️ **Customer Segmentation** – By tenure, contract type, payment method, and internet service
+✔️ **Risk Identification** – Highlighting high-risk groups (Month-to-Month, Fiber Optic, Senior Citizens)
+✔️ **Retention Insights** – Suggestions to improve retention (contract upgrades, alternative payments)
+
+## 📈 Key Insights
+
+* \~27% of customers churn.
+* **Month-to-Month** and **Fiber Optic** customers churn the most.
+* **Senior Citizens** and **Electronic Check** payers are at higher risk.
+* Retention should focus on **contract upgrades** & **alternative payment options**.
+
+## 🖼️ Dashboard Preview
+
+### Main View
+
+![Dashboard Main View](./Dashboard%20Main%20View.png)
+
+### Detailed View
+
+![Dashboard](./Dashboard.png)
+
+## ⚙️ Tools & Technologies
+
+* **Power BI** – Data modeling & visualization
+* **Excel** – Dataset storage & cleaning
+
+## 📌 How to Use
+
+1. Download the dataset (`.xlsx`) and dashboard (`.pbit`).
+2. Open the `.pbit` file in **Power BI Desktop**.
+3. Load the dataset and refresh visuals.
+
+## 📜 About
+
+This project was built to showcase **customer analytics & retention strategy insights** for recruiters and data-driven organizations.
+
+---
+
+👉 Do you also want me to add a **"Live Dashboard link" (Power BI Service)** so recruiters can explore it interactively, or just keep it GitHub-only?
